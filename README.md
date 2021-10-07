@@ -44,7 +44,7 @@
 ![Screenshot_20211006-221401_Termux](https://user-images.githubusercontent.com/81049859/136423479-3b31a28e-e1ca-4de0-a4df-ecedebe3095d.png)
 
 ## PicBannerCj7 :
-* **Crea banner increíbles** de manera divertida, rápida y sencilla.
+* Crea banners realmente **increíbles** de una manera divertida, rápida y sencilla.
 * Compatible con cualquier formato de imagen.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
