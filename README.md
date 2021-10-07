@@ -23,6 +23,26 @@
 </details>
 
 ## Menú Principal :
+![Screenshot_20211007-120111_Termux](https://user-images.githubusercontent.com/81049859/136422322-9d845394-c0a5-4395-86a8-45a9c6eee8b6.png)
+
+
+## Ejemplo :
+![Screenshot_20211007-114231_Termux](https://user-images.githubusercontent.com/81049859/136422588-1af9676f-b303-466e-bd4e-a02ef5001d4f.png)
+
+## Ejemplo :
+![Screenshot_20211007-114418_Termux](https://user-images.githubusercontent.com/81049859/136422651-ebdb28f5-61e7-4fbf-a0dd-34aa02be8c94.png)
+
+
+## Ejemplo :
+![Screenshot_20211007-114444_Termux](https://user-images.githubusercontent.com/81049859/136422725-4b2bed90-a7c8-4a23-9d31-d14fdaf8187f.png)
+
+
+## Ejemplo :
+![Screenshot_20211007-114316_Termux](https://user-images.githubusercontent.com/81049859/136422805-8618bc93-4fa2-4449-814d-5e75f4245919.png)
+
+
+## Ejemplo :
+![Screenshot_20211007-114040_Termux](https://user-images.githubusercontent.com/81049859/136422495-b7d48b4b-a833-41df-8ee6-cce426f6a67b.png)
 
 
 ## PicBannerCj7 :
