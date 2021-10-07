@@ -23,9 +23,9 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20211003-233741_Termux](https://user-images.githubusercontent.com/81049859/135789293-9a8acc6c-d55f-468b-879f-3d29a2e6ccbd.png)
 
-## SendFileCj7 :
+
+## PicBannerCj7 :
 * **Comparte y descarga archivos** ilimitadamente de manera anónima, rápida y sencilla.
 * Duración del enlace: **30 días**.
 * Comparte archivos con un tamaño de hasta **5 Gigas**.
@@ -43,13 +43,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` apt update && apt upgrade -y `
 
-* ` git clone https://github.com/Juliocj7/SendFileCj7 `
+* ` git clone https://github.com/Juliocj7/PicBannerCj7 `
 
-* ` cd SendFileCj7 `
+* ` cd PicBannerCj7 `
 
 * ` chmod +x * `
 
-* ` ./SendFileCj7 `
+* ` ./PicBannerCj7 `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
