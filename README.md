@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -24,7 +23,6 @@
 
 ## Menú Principal :
 ![Screenshot_20220523-143550_Termux](https://user-images.githubusercontent.com/81049859/169884952-be612485-1333-47fc-8881-719a3c3a87bc.png)
-
 
 ## Ejemplo :
 ![Screenshot_20211007-114231_Termux](https://user-images.githubusercontent.com/81049859/136422588-1af9676f-b303-466e-bd4e-a02ef5001d4f.png)
@@ -58,8 +56,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/PicBannerCj7 `
 
 * ` cd PicBannerCj7 `
