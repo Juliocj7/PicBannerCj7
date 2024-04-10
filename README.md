@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221228-211506_Termux](https://user-images.githubusercontent.com/81049859/209894508-fda1b4e6-4966-4308-88e7-91cf05fbfbb7.png)
+![1000328310](https://github.com/Juliocj7/PicBannerCj7/assets/81049859/c9467753-e744-45d9-93ad-9e3b6536286e)
 
 ## Ejemplo :
 ![Screenshot_20211007-114231_Termux](https://user-images.githubusercontent.com/81049859/136422588-1af9676f-b303-466e-bd4e-a02ef5001d4f.png)
@@ -39,9 +39,6 @@
 
 ## Ejemplo :
 ![Screenshot_20211007-114040_Termux](https://user-images.githubusercontent.com/81049859/136422495-b7d48b4b-a833-41df-8ee6-cce426f6a67b.png)
-
-## Con un poco de creatividad :
-![Screenshot_20211006-221401_Termux](https://user-images.githubusercontent.com/81049859/136423479-3b31a28e-e1ca-4de0-a4df-ecedebe3095d.png)
 
 ## PicBannerCj7 :
 * Crea banners realmente **impresionantes** de una manera divertida, rápida y sencilla.
