@@ -25,20 +25,14 @@
 ## Menú Principal :
 ![1000328310](https://github.com/Juliocj7/PicBannerCj7/assets/81049859/c9467753-e744-45d9-93ad-9e3b6536286e)
 
-## Ejemplo :
+## Ejemplos :
+|1|2|
+|:-:|:-:|
+|![1000329294](https://github.com/Juliocj7/PicBannerCj7/assets/81049859/498c512f-f6ec-4018-bc38-f44b171367d0)|![1000329296](https://github.com/Juliocj7/PicBannerCj7/assets/81049859/8a5dd381-28b9-482f-93f9-96d77fe1f478)|
+|3|4|
+|![1000329293](https://github.com/Juliocj7/PicBannerCj7/assets/81049859/864d4ea2-c12a-4168-91fe-88f10274d3ef)|![1000329295](https://github.com/Juliocj7/PicBannerCj7/assets/81049859/dc1c0627-b63c-4149-92e4-0852fced51d8)|
+
 ![Screenshot_20211007-114231_Termux](https://user-images.githubusercontent.com/81049859/136422588-1af9676f-b303-466e-bd4e-a02ef5001d4f.png)
-
-## Ejemplo :
-![Screenshot_20211007-114418_Termux](https://user-images.githubusercontent.com/81049859/136422651-ebdb28f5-61e7-4fbf-a0dd-34aa02be8c94.png)
-
-## Ejemplo :
-![Screenshot_20211007-114444_Termux](https://user-images.githubusercontent.com/81049859/136422725-4b2bed90-a7c8-4a23-9d31-d14fdaf8187f.png)
-
-## Ejemplo :
-![Screenshot_20211007-114316_Termux](https://user-images.githubusercontent.com/81049859/136422805-8618bc93-4fa2-4449-814d-5e75f4245919.png)
-
-## Ejemplo :
-![Screenshot_20211007-114040_Termux](https://user-images.githubusercontent.com/81049859/136422495-b7d48b4b-a833-41df-8ee6-cce426f6a67b.png)
 
 ## PicBannerCj7 :
 * Crea banners realmente **impresionantes** de una manera divertida, rápida y sencilla.
