@@ -52,7 +52,9 @@ ______________________________________________________
 |3|4|
 |![1000329293](https://github.com/Juliocj7/PicBannerCj7/assets/81049859/864d4ea2-c12a-4168-91fe-88f10274d3ef)|![1000329295](https://github.com/Juliocj7/PicBannerCj7/assets/81049859/dc1c0627-b63c-4149-92e4-0852fced51d8)|
 
-![Screenshot_20211007-114231_Termux](https://user-images.githubusercontent.com/81049859/136422588-1af9676f-b303-466e-bd4e-a02ef5001d4f.png)
+|4|
+|-|
+|![Screenshot_20211007-114231_Termux](https://user-images.githubusercontent.com/81049859/136422588-1af9676f-b303-466e-bd4e-a02ef5001d4f.png)|
 
 ## PicBannerCj7 :
 * Convierte imágenes en impresionante arte unicode.
