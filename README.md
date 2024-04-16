@@ -55,7 +55,8 @@ ______________________________________________________
 ![Screenshot_20211007-114231_Termux](https://user-images.githubusercontent.com/81049859/136422588-1af9676f-b303-466e-bd4e-a02ef5001d4f.png)
 
 ## PicBannerCj7 :
-* Crea banners realmente **impresionantes** de una manera divertida, rápida y sencilla.
+* Convierte imágenes en impresionante arte unicode.
+* Crea increíbles banners de una manera divertida, rápida y sencilla.
 * Compatible con cualquier formato de imagen.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
@@ -64,17 +65,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/PicBannerCj7 `
-
-* ` cd PicBannerCj7 `
-
-* ` chmod +x * `
-
-* ` ./PicBannerCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/PicBannerCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd PicBannerCj7 && chmod +x * && ./PicBannerCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
